@@ -1,0 +1,6 @@
+B12 -> CS
+B13 -> SCK
+B14 -> MISO
+B15 -> MOSI
+B0  -> CE
+A0  -> IRQ
